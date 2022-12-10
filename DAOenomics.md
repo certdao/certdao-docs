@@ -1,8 +1,12 @@
 # DAOenomics
 
+***certDAO* currently does not have a token.**
 
+*certDAO* currently earns fees from contract owners who register their contract with *certDAO*.
 
-_**certDAO**_** currently does not have a token.**
+Also any updates to the registration made by the owner also incurs a fee.
+
+This fee helps maintain the DAO and prevent spam.
 
 However, a token is planned for the future whose **initial** distribution will be used to:
 
