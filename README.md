@@ -4,4 +4,4 @@ This repository contains the documentation for the certDAO project. The document
 
 - [docs.certdao.net](https://docs.certdao.net)
 
-And is powered by gitbook.
+And is powered by `gitbook`.
