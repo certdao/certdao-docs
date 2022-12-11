@@ -4,7 +4,7 @@
 
 ## How does *certDAO* work?
 
-![certDAO workflow diagram](/images/certDAO-arch.jpeg)
+![certDAO workflow diagram](/images/certDAO-arch.png)
 
 ### Simple Workflow:
 1. Contract owner navigates to *certdao.net*, connects their wallet, enters their domain and contract address, and submits the information to the *certDAO* backend which validates that.
