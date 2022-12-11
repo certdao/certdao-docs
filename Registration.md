@@ -1,6 +1,7 @@
 ## Registration Walkthrough
 
 1. Contract Owner navigates to **www.certdao.net**.
+
 	![certdao home](images/home.png)
 
 2. Contract Owner connects their wallet and enters the URL users navigate to to interact with the deployed contract and deployed contract address.
