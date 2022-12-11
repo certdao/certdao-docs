@@ -3,8 +3,9 @@
 Integration with `certDAO` is simple. All you need to do is add a few lines of code to your wallet or interface.
 
 ### Integration example:
+
 ```
 // Add integration example
 ```
 
-Please reach out on discord if you have any questions!
+Please reach out on discord!
