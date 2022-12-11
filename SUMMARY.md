@@ -2,5 +2,5 @@
 
 * [Overview](README.md)
 * [DAOenomics](DAOenomics.md)
-* [WalletCreators](WalletCreators.md)
-* [ContractOwners](ContractOwners.md)
+* [Registration](Registration.md)
+* [Integration](Integration.md)
