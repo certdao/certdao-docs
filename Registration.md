@@ -24,3 +24,12 @@
 7. You can view the status of all your registration in the registration tab.
 
 	![certdao registration](images/registration-tab.png)
+
+### Current Rules
+
+- Currently, only contracts deployed on the Ethereum mainnet are supported.
+- Only one domain (URL) can be registered per contract.
+- Registration is valid for 1 year from initial registration.
+- The DAO can revoke a registration anytime.
+
+
