@@ -52,7 +52,7 @@ Eventually, if *certDAO* is successful, we will be able to create a standard int
 
 All wallets/interfaces will integrate *certDAO* and all contract owners will have to register their contract with *certDAO*. *certDAO* creates a first line of defense against malicious actors trying to exploit the user.
 
-![certDAO wallet integration](/images/verifiedBycertDAO.png)
+![certDAO wallet integration](/images/verifiedBycertDAO.PNG)
 
 ## Who is behind *certDAO*?
 
